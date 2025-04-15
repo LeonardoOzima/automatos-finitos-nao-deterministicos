@@ -35,10 +35,6 @@ AFND_com_rastro(M, "baaabbabab")   # Caminho 3 – contém substring "aaa"
 - `δ`: função de transição (incluindo transições ε)
 - `q0`: estado inicial
 - `F`: conjunto de estados finais
-
-## 📜 Licença
-
-Este código é parte de um estudo acadêmico e pode ser usado livremente para fins educacionais.
-
+  
 ---
 Desenvolvido durante estudos de Teoria da Computação 📚
